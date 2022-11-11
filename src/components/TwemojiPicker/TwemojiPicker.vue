@@ -30,7 +30,7 @@
                   @focus="isSearchFocused = true"
                   @blur="isSearchFocused = false"
                 />
-                <img src="http://revsocialnetwork.com/img/icons/secondary/common/search.png" class="icon-rev-xs" />
+                <img src="https://revsocialnetwork.com/img/icons/secondary/common/search.png" class="icon-rev-xs" />
               </div>
             </div>
 
